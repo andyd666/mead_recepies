@@ -10,8 +10,8 @@
 
 ## Alcohol and sugar content
 
-- Alc: 11-13%
-- Sw: 0.4g / 100ml
+- Alc.: 11-13%
+- Sw.: 0.4g / 100ml
 
 ## Ingredients
 
